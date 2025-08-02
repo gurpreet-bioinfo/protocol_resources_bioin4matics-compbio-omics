@@ -1,5 +1,7 @@
 # My Top Go-To Protocol Resources for Bioinformatics, Computational Biology &amp; Omics 
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16729076.svg)](https://doi.org/10.5281/zenodo.16729076)
+
 | Protocol_Categories | Description | Websites |
 |-------------------|-------------|---------|
 | **Journals** | | |
